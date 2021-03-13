@@ -1,2 +1,2 @@
 # Hackabull
-a student assistant application during this current time
+A hackathon project which helps student during this current time's
